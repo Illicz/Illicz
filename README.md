@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Illicz
+- 👋 Hi, I’m @Illia Ahapov
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ...
